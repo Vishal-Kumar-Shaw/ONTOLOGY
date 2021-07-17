@@ -1,6 +1,7 @@
 # ########Chapter - 1 - 
 
 print("Hello World")
+print(5+2);
 
 # what is pip
 
@@ -15,3 +16,5 @@ print("Hello World")
 # comments in python
 # single line comment - #
 # multiline comment - '''    '''
+
+'''Write a program to print twinke twinkle poem'''
